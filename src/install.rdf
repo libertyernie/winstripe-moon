@@ -8,15 +8,16 @@
     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 
   <Description about="urn:mozilla:install-manifest">
-    <em:id>{bbee9373-4135-47cb-b98e-98e62085837f}</em:id>
+    <em:id>{77d97525-e813-48d0-9bba-9c43df19baf9}</em:id>
     <em:version>3.0.1</em:version>
-    <em:name>Fox 2 The Moon</em:name>
-    <em:description>The default Firefox 2 theme for Pale Moon. Fork of "Firefox 2, the theme, reloaded" by rctgamer3 et al.</em:description>
-    <em:creator>Lootyhoof</em:creator>
+    <em:name>Winstripe Moon</em:name>
+    <em:description>A Pale Moon theme using some of the Firefox 1.x Winstripe icons.</em:description>
+    <em:creator>libertyernie</em:creator>
     <em:type>4</em:type>
-    <em:internalName>f2tm</em:internalName>
+    <em:internalName>winstripemoon</em:internalName>
     <em:skinnable>true</em:skinnable>
 
+	<em:contributor>Lootyhoof</em:contributor>
     <em:contributor>fax8</em:contributor>
     <em:contributor>rctgamer3</em:contributor>
     <em:contributor>borr</em:contributor>
