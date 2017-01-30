@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.1
+- fix version number
+
 ### 1.0
 - first version, forked from Fox 2 The Moon (3.0.1)
 - replaced:

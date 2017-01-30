@@ -9,7 +9,7 @@
 
   <Description about="urn:mozilla:install-manifest">
     <em:id>{77d97525-e813-48d0-9bba-9c43df19baf9}</em:id>
-    <em:version>3.0.1</em:version>
+    <em:version>1.0.1</em:version>
     <em:name>Winstripe Moon</em:name>
     <em:description>A Pale Moon theme using some of the Firefox 1.x Winstripe icons.</em:description>
     <em:creator>libertyernie</em:creator>
