@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.0.2
+- fix organizer-toolbar.png
+- switch the normal and hover icons in the toolbar
+
 ### 1.0.1
 - fix version number
 
