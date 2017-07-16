@@ -1,5 +1,12 @@
 # Changelog
 
+### 1.1
+- Unused social and safebrowsing components removed
+- Sync permissions and support about pages to default
+- Fixed learn more links
+- Added imagedocument.png
+- New preview and icon
+
 ### 1.0.2
 - fix organizer-toolbar.png
 - switch the normal and hover icons in the toolbar
