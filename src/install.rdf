@@ -9,7 +9,7 @@
 
   <Description about="urn:mozilla:install-manifest">
     <em:id>{77d97525-e813-48d0-9bba-9c43df19baf9}</em:id>
-    <em:version>1.0.2</em:version>
+    <em:version>1.1</em:version>
     <em:name>Winstripe Moon</em:name>
     <em:description>A Pale Moon theme using some of the Firefox 1.x Winstripe icons.</em:description>
     <em:creator>libertyernie</em:creator>
@@ -18,11 +18,11 @@
     <em:skinnable>true</em:skinnable>
 
 	<em:contributor>FranklinDM</em:contributor>
-	<em:contributor>Lootyhoof</em:contributor>
-    <em:contributor>fax8</em:contributor>
-    <em:contributor>rctgamer3</em:contributor>
-    <em:contributor>borr</em:contributor>
-    <em:contributor>Graciliano (Win10 caption buttons)</em:contributor>
+	<em:contributor>Lootyhoof (Fox 2 The Moon)</em:contributor>
+    <em:contributor>fax8 (Fox 2 The Moon)</em:contributor>
+    <em:contributor>rctgamer3 (Fox 2 The Moon)</em:contributor>
+    <em:contributor>borr (Fox 2 The Moon)</em:contributor>
+    <em:contributor>Graciliano (Fox 2 The Moon)</em:contributor>
 
     <em:targetApplication>
       <Description>
